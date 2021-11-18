@@ -20,4 +20,4 @@ Here list the available projects. More may be added in the future.
 ## To do list
 - pipreqsnb prints `scikit_learn` rather than `scikit-learn`. Is this correct?
 - Merge some frequently used code into a utility code file.
-- </br> behavies differently on github and in my computer.
+- \</br\> in jupyter notebooks behavies differently on github and my computer.
