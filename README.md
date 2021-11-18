@@ -12,7 +12,7 @@ There are four main directories in this repository. New directories may be added
 - `data_analysis` stores notebooks which perform data analysis. These notebooks often read cleansed data from `repository`, and may save some objects to `repository`.
 
 ## Choose a data science project to run
-To run a project, launch one of the notebooks listed below and perform the required actions stated in that notebook, including launching some other notebooks and/or downloading some datasets.</br>
+To run a project, launch one of the notebooks listed below and perform the required actions stated in that notebook, including launching some other notebooks and/or downloading some datasets. If the math in a notebook is not presented well, try to watch it through https://nbviewer.org/.<br>
 Here list the available projects. More may be added in the future.
 - `data_analysis/plants.ipynb`
 - `data_analysis/cyclones.ipynb`
@@ -20,4 +20,3 @@ Here list the available projects. More may be added in the future.
 ## To do list
 - pipreqsnb prints `scikit_learn` rather than `scikit-learn`. Is this correct?
 - Merge some frequently used code into a utility code file.
-- \</br\> in jupyter notebooks behavies differently on github and my computer.
